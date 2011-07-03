@@ -41,7 +41,7 @@ class SVGWeb(XStatic):
     homepage = 'http://code.google.com/p/svgweb/'
 
     # this refers to all files:
-    license = '(same a %s)' % display_name
+    license = '(same as %s)' % display_name
 
     locations = {
     }
