@@ -16,7 +16,7 @@ except ImportError:
 class SVGWeb(XStatic):
     name = 'svgweb' # short, all lowercase name
     display_name = 'svgweb' # official name, upper/lowercase allowed
-    version = '2011.2.3.0' # for simplicity, use same version x.y.z as bundled files
+    version = '2011.2.3.1' # for simplicity, use same version x.y.z as bundled files
                         # additionally we append .b for our build number, so we
                         # can release new builds with fixes for xstatic stuff.
 
